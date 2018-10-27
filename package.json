@@ -1,0 +1,16 @@
+{
+    "name": "ssd-manager",
+    "version": "1.0.0",
+    "description": "常量管理",
+    "author": "Aguangtian",
+    "main": "main.js",
+    "main-menu": {
+        "Packages/通用/SSD": {
+            "message": "ssd-manager:run"
+        }
+    },
+    "dependencies": {},
+    "devDependencies": {
+
+    }
+}
